@@ -1,0 +1,11 @@
+[33mcommit c65ca65106c64fc7f2562622bd9dbc3c96cece0a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: warMachine <warmachine@pop-os.localdomain>
+Date:   Sun Sep 19 19:48:26 2021 -0300
+
+    Se genera primer prototipo de menu principal, es necesario desarrollo
+
+[33mcommit 137e6a811bc3bebb3d20c6ef22046f5015a89297[m
+Author: warMachine <warmachine@pop-os.localdomain>
+Date:   Sun Sep 12 17:56:54 2021 -0300
+
+    Se crea prototipo de pantalla de inicio
